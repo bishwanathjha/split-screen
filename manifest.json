@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "Split Screen",
+    "description": "Dynamically splits the current tab into multiple windows side by side on the current screen.",
+    "version": "1.0",
+    "permissions": [
+      "tabs",
+      "windows",
+      "notifications",
+      "storage",
+      "system.display"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Split Screen",
+      "default_icon": {
+        "16": "assets/icons/icon.png",
+        "32": "assets/icons/icon.png",
+        "48": "assets/icons/icon.png",
+        "128": "assets/icons/icon.png"
+      }
+    },
+    "icons": {
+      "16": "assets/icons/icon.png",
+      "32": "assets/icons/icon.png",
+      "48": "assets/icons/icon.png",
+      "128": "assets/icons/icon.png"
+    }
+  }
