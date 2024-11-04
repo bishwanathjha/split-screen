@@ -1,6 +1,6 @@
 # Split Screen
 
-![Logo](assets/icons/icon.png)
+<img src="assets/icons/icon.png" alt="Logo" width="250">
 
 **Split Screen** is a Chrome extension that allows users to dynamically split their browser window into multiple side-by-side windows. Whether you're multitasking across multiple tabs or organizing your workspace across dual monitors, this extension enhances productivity by efficiently managing your browser windows.
 
@@ -87,7 +87,7 @@ Contributions are what make the open-source community such an amazing place to l
 - Open a Pull Request
 
 ## 📄 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/bishwanathjha/split-screen/blob/main/LICENSE) for more information.
 
 
 ## 🙏 Acknowledgements
