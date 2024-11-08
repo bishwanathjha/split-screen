@@ -7,12 +7,12 @@
 <a href="https://chromewebstore.google.com/detail/split-screen/fpoojapmpfdminipddohflbhilkjbmjj?utm_source=github" target="_blank">Install this extension in google chrome</a>
 
 > [!TIP]
-> To maximize productivity, set up a keyboard shortcut:
+> To maximize productivity, set up a keyboard shortcut after installing:
 > 
 > 1. Open the shortcut setup screen in Google Chrome by entering `chrome://extensions/shortcuts` in the address bar.
 > 2. Locate the "Split Screen" app in the list and click the 🖊️ (edit) icon.
 > 3. Press your desired key combination and its done!
-> 
+> <img src="assets/img/shortcut-tip.png" alt="shortcut-tip">
 > Now, whenever you need to split your screen, simply press the shortcut key. 🚀
 
 
