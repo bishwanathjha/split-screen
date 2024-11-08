@@ -4,15 +4,28 @@
 
 **Split Screen** is a Chrome extension that allows users to dynamically split their browser window into multiple side-by-side windows. Whether you're multitasking across multiple tabs or organizing your workspace across dual monitors, this extension enhances productivity by efficiently managing your browser windows.
 
+<a href="https://chromewebstore.google.com/detail/split-screen/fpoojapmpfdminipddohflbhilkjbmjj?utm_source=github" target="_blank">Install this extension in google chrome</a>
+
+> [!TIP]
+> To maximize productivity, set up a keyboard shortcut:
+> 
+> 1. Open the shortcut setup screen in Google Chrome by entering `chrome://extensions/shortcuts` in the address bar.
+> 2. Locate the "Split Screen" app in the list and click the 🖊️ (edit) icon.
+> 3. Press your desired key combination and save it.
+> 
+> Now, whenever you need to split your screen, simply press the shortcut key. 🚀
+
+
+
 ## 📋 **Table of Contents**
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+- [Features](#-features)
+- [Manual Installation](#-manual-installation)
+- [Usage](#-usage)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
+- [Contact](#-contact)
 
 ## ✨ **Features**
 
@@ -21,9 +34,8 @@
 - **Scalable Layout:** Handles an increasing number of splits by arranging windows in a grid layout, ensuring optimal use of screen real estate.
 - **Automatic Rearrangement:** Automatically adjusts window positions and sizes when split windows are added or removed.
 - **Persistent State:** Remembers split windows across browser sessions using Chrome's storage API.
-- **User Notifications:** Provides feedback and error notifications for a seamless user experience.
 
-## 🛠️ **Installation**
+## 🛠️ **Manual Installation**
 
 ### **1. Clone the Repository**
 
@@ -31,7 +43,6 @@ First, clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/bishwanathjha/split-screen.git
-
 ```
 
 ### **2. Navigate to the Extension Directory**
